@@ -1,4 +1,4 @@
-# fortran_python_sci_modules
+# fortran_python_qusci_modules
 
 in my last work i found out that python was lazyer than i think! and it killed me to calculate what I wanted from it. even when i wrote my programs in parallel on cuda! 
 So I thought it would be better to change this situation. i thought that i must write something faster for pc qubit ssimulators. and this ripo is for it. for create some fast fortrani modules for python and doing some qubit simulations with them.
