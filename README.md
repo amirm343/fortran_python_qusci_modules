@@ -5,6 +5,17 @@ So I thought it would be better to change this situation. i thought that i must 
 this might fail or i might fail but this is the begining and i hope that if even i cant complete it some others do it or help to me in this way.
 anyway i will try to complete most of part over the time and transforme algorithems to cudafortran or maybe cudac or even python-cuda-etc to have a rich comparison between them.
 
+#### ideas:
+0 - add an ideas section for brainstorme?
+    (if you have an idea for develope this repo write it here and send a fork request or:
+    just mail it to me: amir.m.343@outlook.com)
+
 ## 000.* tensor product
 i wrote the first function! a func for calculate tensorproduct between two matrixs and tested it fo |0>|0> and etc.
 it was simple and necessariest for qubit simulating goal!
+
+## 001.* matrix multipication
+second function is the famous matmul.
+
+## -001.* example1: bell_state
+the first simulation done!!
