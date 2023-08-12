@@ -7,7 +7,6 @@ function tp(a, b) result(c)
     real(kind=8)    :: c(size(a, 1)*size(b, 1),size(a, 2)*size(b, 2))
     integer k, l, i, j
 
-    do k= 1, size(a, 1), 1
         do l= 1, size(b, 1), 1
             do i= 1, size(a, 2), 1
                 do j= 1, size(b, 2), 1
